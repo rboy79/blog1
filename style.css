@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.baseimg {
+    width: 700px;
+    padding: 20px;
+
+}
+
+.basetitle {
+    font-weight: bold;
+    font-size: 30px;
+
+}
